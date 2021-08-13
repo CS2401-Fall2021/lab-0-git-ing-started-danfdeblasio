@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "CheckAnswer",
+      "setup": "javac *.java ",
+      "run": "java -cp . Test",
+      "input": "",
+      "output": "Correct Answer",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}

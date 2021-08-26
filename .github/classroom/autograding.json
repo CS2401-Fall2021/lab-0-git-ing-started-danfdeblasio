@@ -6,7 +6,7 @@
       "run": "java -cp . Test",
       "input": "",
       "output": "Correct Answer",
-      "comparison": "exact",
+      "comparison": "included",
       "timeout": 10,
       "points": 10
     }
